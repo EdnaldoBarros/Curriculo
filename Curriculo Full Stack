@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Currículo - Desenvolvedor Full stack</title>
+    
+</head>
+<body>
+
+<header>
+    <h1>Ednaldo Barros da Silva</h1>
+    <p>Estudante de desenvolvimento Full Stack</p>
+</header>
+
+<section>
+    <h2>Biografia</h2>
+    <p>Sou um estudante de desenvolvimento full stack apaixonado por criar experiências web envolventes. Com aprendizado em HTML e CSS, busco constantemente aprender novas tecnologias e aprimorar minhas habilidades.</p>
+</section>
+
+<section>
+    <h2>Experiência</h2>
+    <ul>
+        <li>Estudante</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Habilidades</h2>
+    <ul>
+        <li>HTML5 & CSS3</li>
+        <li>Git & GitHub</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Contato</h2>
+    <ul class="contact-info">
+        <li>Email: ednaldohackti@gmail.com</li>
+        <li>Telefone: (31) 999358480</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Redes Sociais</h2>
+    <ul class="social-links">
+        <li><a href="www.linkedin.com/in/ednaldo-barros-da-silva-0209019b" target="_blank">Linkedin</a></li>
+        <li><a href="https://www.linkedin.com/in/ednaldo-barros-da-silva-0209019b" target="_blank">GitHub</a></li>
+        <li><a href="https://twitter.com/seutwitter" target="_blank">Instagram</a></li>
+    </ul>
+</section>
+
+</body>
+</html>
